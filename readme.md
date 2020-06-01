@@ -27,3 +27,4 @@ This repository explains how to run different Machine Learning frameworks on [Am
 
 wiki:
 https://github.com/aws-samples/machine-learning-using-k8s/wiki/Webinar-Demo-Flow
+视频：https://www.bilibili.com/video/av62148860
