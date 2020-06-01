@@ -23,3 +23,7 @@ This repository explains how to run different Machine Learning frameworks on [Am
   - [Serverless inference on AWS Fargate](docs/serverlss/inference/readme.md)
 - Inference using Imagenet
     - [TensorFlow on Amazon EKS](docs/imagenet/inference/tensorflow.md)
+
+
+wiki:
+https://github.com/aws-samples/machine-learning-using-k8s/wiki/Webinar-Demo-Flow
